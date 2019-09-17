@@ -1,5 +1,6 @@
 # SecurityAnalysis
 ___The application is under development___.
+
 The program allows you to obtain an assessment of the financial statements of the company.
 
 ![image](https://user-images.githubusercontent.com/31075923/64907484-ac751380-d6fb-11e9-82c9-b55e17e54c83.png)
