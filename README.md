@@ -6,11 +6,11 @@ The program allows you to obtain an assessment of the financial statements of th
 ![image](https://user-images.githubusercontent.com/31075923/64907484-ac751380-d6fb-11e9-82c9-b55e17e54c83.png)
 
 ### program start
-_On Windows_
+_For Windows_
 
-Activate virtual environment
+Install the required libraries
 ```sh
-> venv\Scripts\activate
+> pip install -r requirements.txt 
 ```
 Program start
 ```sh
